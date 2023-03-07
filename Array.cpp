@@ -1,9 +1,6 @@
 #include <iostream>
 #include <array>
 using namespace std;
-
-// references doc:https://cplusplus.com/reference/array/array/
-
 int main()
 {
    int basicArray[3] = {1, 2, 3};
