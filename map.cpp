@@ -10,7 +10,6 @@ using namespace std;
 int main()
 { 
 // typedef pair<const Key, T> value_type;
-
     map<int, string> m;
 
     m[1] = "MD";
